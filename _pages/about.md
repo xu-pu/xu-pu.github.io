@@ -17,3 +17,5 @@ I'm a robotics engineer and researcher. My main focus is robotic manipulation - 
 
 Currently, I conduct research in Prof. Jungwon Seo's group at HKUST Robotics Institute, as a research assistant (2021-2022) and MPhil student (2019-2021).
 Prior to that, I was working on consumer drones and gimbals at DJI (2015-2018).
+
+See the full list of my papers and patents on [google scholar](https://scholar.google.com/citations?user=Yb3KalUAAAAJ).
