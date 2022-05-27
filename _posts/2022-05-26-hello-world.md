@@ -5,6 +5,7 @@ date:   2022-05-26 00:00:00
 description: Caveats about GitHub Pages, Jekyll and al-folio theme.
 tags:
 categories:
+comments: true
 ---
 
 
