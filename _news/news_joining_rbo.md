@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-24 00:00:00-0400
+date: 2023-04-13 00:00:00-0400
 inline: true
 ---
 
-I will be joining the [Robotics and Biology (RBO) Laboratory](https://www.robotics.tu-berlin.de/) at TU Berlin in Spring 2023.
+I joined [Robotics and Biology (RBO) Laboratory](https://www.robotics.tu-berlin.de/) and [Science of Intelligence](https://www.scienceofintelligence.de/) at the Technische Universität Berlin as a PhD student.
